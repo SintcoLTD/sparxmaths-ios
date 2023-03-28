@@ -33,32 +33,32 @@ chrome_extension;
 ## Autosolve
 
 <p align="center">
-  <img width="100%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Home Page.PNG">
+  <img width="100%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Home Page.PNG">
 </p>
 <p align="center">
-  <img width="70%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Bookwork Code 6.PNG">
+  <img width="70%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Bookwork Code 6.PNG">
 </p>
 
 ## Colour Themes
 
 <p align='center'>
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 1.PNG">
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 2.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 1.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 2.PNG">
 </p>
 <p align='center'>
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 3.PNG">
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 4.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 3.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 4.PNG">
 </p>
 <p align='center'>
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 5.PNG">
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 6.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 5.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 6.PNG">
 </p>
 <p align='center'>
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 7.PNG">
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 8.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 7.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 8.PNG">
 </p>
 <p align='center'>
-  <img width="49%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Theme 9.PNG">
+  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 9.PNG">
 </p>
 
 ## Scripts
