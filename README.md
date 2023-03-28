@@ -14,7 +14,7 @@ chrome_extension;
   <summary>Click to expand</summary>
   
 - [Features](#features)
-- [Gameplay](#gameplay)
+- [Autosolve](#autosolve)
 - [Colour Themes](#colour-themes)
 - [Scripts](#scripts)
   * [Console](#console)
@@ -30,7 +30,7 @@ chrome_extension;
 - Works on **all** computers that allow **Inspect Element**
 - Can be used on **Android** (through Kiwi Browser)
 
-## Gameplay
+## Autosolve
 
 <p align="center">
   <img width="100%" src="https://github.com/alexlostorto/sparx/raw/main/git-images/Sparx Home Page.PNG">
