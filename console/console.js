@@ -322,7 +322,7 @@ async function main() {
 
     const xpElement = document.querySelector('.status-bar-label-text') //XP header
     if (xpElement !== null) {
-        xpElement.textContent = "It doesn't matter :)";
+        xpElement.textContent = "Made by NAJM A :)";
     } 
 
     // Display stored answer
