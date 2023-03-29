@@ -11,8 +11,6 @@ chrome_extension;
 ## Table of Contents
 
 
-  <summary>Click to expand</summary>
-  
 - [Features](#features)
 - [Autosolve](#autosolve)
 - [Colour Themes](#colour-themes)
