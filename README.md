@@ -71,7 +71,7 @@ chrome_extension;
 
 ## Terms and Conditions
 
-All code in this repository was developed by Alex lo Storto except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
+All code in this repository was developed by Najm Ajmal except where otherwise noted. Copyright (c) 2023, Najm Ajmal. All rights reserved. The code is licensed under the MIT license.
 
 ```
 FOR EDUCATIONAL PURPOSES ONLY.
