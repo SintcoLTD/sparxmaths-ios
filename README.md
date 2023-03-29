@@ -10,7 +10,7 @@ chrome_extension;
 
 ## Table of Contents
 
-<details>
+
   <summary>Click to expand</summary>
   
 - [Features](#features)
@@ -20,7 +20,7 @@ chrome_extension;
   * [Console](#console)
   * [Chrome Extension](#chrome-extension)
 - [Terms and Conditions](#terms-and-conditions)
-</details>
+
 
 ## Features
 
