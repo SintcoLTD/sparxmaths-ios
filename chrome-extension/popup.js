@@ -20,7 +20,7 @@ document.addEventListener("click", function(e) {
 });
 
 aboutButton.addEventListener('click', function() {
-    const newURL = "https://cosmicanty.github.io/";
+    const newURL = "https://google.com";
         chrome.tabs.create({ url: newURL });
 });
 
