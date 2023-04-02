@@ -33,13 +33,14 @@ chrome_extension;
 <p align="center">
   <img width="70%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Bookwork Code 6.PNG">
 </p>
-<p align="center">
-  <img width="100%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Home Page.PNG">
-</p>
+
 
 
 ## Colour Themes
 
+<p align="center">
+  <img width="100%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Home Page.PNG">
+</p>
 <p align='center'>
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 1.PNG">
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 2.PNG">
