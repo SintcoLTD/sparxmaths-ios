@@ -31,11 +31,12 @@ chrome_extension;
 ## Autosolve
 
 <p align="center">
-  <img width="100%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Home Page.PNG">
-</p>
-<p align="center">
   <img width="70%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Bookwork Code 6.PNG">
 </p>
+<p align="center">
+  <img width="100%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Home Page.PNG">
+</p>
+
 
 ## Colour Themes
 
