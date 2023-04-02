@@ -3,7 +3,4 @@
     "dependencies": {
         "js": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"],
         "css": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"]
-    },
-    "contentScript": "https://github.com/SintcoLTD/sparxmaths/blob/console/console.js",
-    "licenses": "https://github.com/SintcoLTD/sparxmaths/blob/licenses.json"
-}
+    }
