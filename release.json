@@ -1,11 +1,9 @@
-[
-  {
-    "name": "KaTeX/KaTeX",
-    "type": "MIT",
-    "url": "https://github.com/KaTeX/KaTeX/blob/main/LICENSE"
-  },
-  {
-    "name": "SintcoLTD/sparxmaths",
-    "type": "MIT",
-    "url": "https://github.com/SintcoLTD/sparxmaths/blob/main/LICENSE"
-  }]
+{
+    "version": "v3.0.2",
+    "dependencies": {
+        "js": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"],
+        "css": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"]
+    },
+    "contentScript": "https://cdn.jsdelivr.net/gh/SintcoLTD/sparxmaths@main/console/console.js",
+    "licenses": "https://cdn.jsdelivr.net/gh/SintcoLTD/sparxmaths@main/licenses.json"
+}
