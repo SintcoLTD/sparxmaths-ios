@@ -1,8 +1,8 @@
 {
     "version": "v3.0.2",
     "dependencies": {
-        "js": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"],
-        "css": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"]
+        "js": ["https://cdn.jsdelivr.net/gh/SintcoLTD/sparxmaths@main/KaTeX/katex.min.js"],
+        "css": ["https://cdn.jsdelivr.net/gh/SintcoLTD/sparxmaths@main/KaTeX/katex.min.css"]
     },
     "contentScript": "https://cdn.jsdelivr.net/gh/SintcoLTD/sparxmaths@main/console/console.js",
     "licenses": "https://cdn.jsdelivr.net/gh/SintcoLTD/sparxmaths@main/licenses.json"
