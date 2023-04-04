@@ -7,10 +7,6 @@ Welcome to **Sparx Notes**, an extension designed to assist you with your maths 
 console.js;
 chrome_extension;
 ```
-## Single Install Command (Administrate in console, Temporary)
-
-  - [s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/alexlostorto/sparx@v3.0.0/console/inject.js';document.head.appendChild(s);]
-
 
 
 ## Table of Contents
