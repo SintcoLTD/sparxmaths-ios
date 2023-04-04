@@ -7,6 +7,37 @@ Welcome to **Sparx Notes**, an extension designed to assist you with your maths 
 console.js;
 chrome_extension;
 ```
+## Single Install Command (Administrate in console, Temporary)
+
+<!-- HTML code -->
+<button class="copy-button" data-clipboard-target="#copy-target">Click to Copy</button>
+<p id="copy-target">s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/SintcoLTD/sparxmaths/console/inject.js';document.head.appendChild(s);</p>
+
+<!-- CSS code -->
+.copy-button {
+  background-color: #00A7E1;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* JavaScript code */
+const copyButton = document.querySelector('.copy-button');
+const copyTarget = document.querySelector('#copy-target');
+
+copyButton.addEventListener('click', () => {
+  const range = document.createRange();
+  range.selectNode(copyTarget);
+  window.getSelection().removeAllRanges();
+  window.getSelection().addRange(range);
+  document.execCommand('copy');
+  window.getSelection().removeAllRanges();
+});
+
+
+
 
 ## Table of Contents
 
