@@ -1,6 +1,6 @@
-<h1 align="center">Sparx</h1>
+<h1 align="center">Sparxmaths Solver</h1>
 
-Welcome to **Sparx Notes**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](T&C.txt) before using the extension.
+Welcome to **Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](T&C.txt) before using the extension.
 
 ```js
 // List of programs
