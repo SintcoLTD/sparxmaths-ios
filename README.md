@@ -2,6 +2,8 @@
 
 Welcome to **Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](T&C.txt) before using the extension.
 
+`THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
+
 ```js
 // List of programs
 console.js;
@@ -74,7 +76,9 @@ chrome_extension;
 
 ## Terms and Conditions
 
-All code in this repository was developed by Najm Ajmal except where otherwise noted. Copyright (c) 2023, Najm Ajmal. All rights reserved. The code is licensed under the MIT license.
+## Terms and Conditions
+
+All code in this repository was developed by Alex lo Storto except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
 
 ```
 FOR EDUCATIONAL PURPOSES ONLY.
