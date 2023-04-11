@@ -719,7 +719,7 @@ async function credits() {
     await sleep(200);
     console.clear();
     console.log.apply(console, ["%c Thanks for using my Sparxmaths program! ","color: #fff; background: #8000ff; padding:5px 0;"])
-    console.log.apply(console, ["%c Designed and Developed by Najm Ajmal %c\ud83d\ude80 ","color: #fff; background: #8000ff; padding:5px 0;","color: #fff; background: #242424; padding:5px 0 5px 5px;"])
+    console.log.apply(console, ["%c Designed and Developed by Alex Lo Storto %c\ud83d\ude80 ","color: #fff; background: #8000ff; padding:5px 0;","color: #fff; background: #242424; padding:5px 0 5px 5px;"])
 }
 
 main();
