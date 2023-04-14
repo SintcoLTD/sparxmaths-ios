@@ -76,8 +76,6 @@ chrome_extension;
 
 ## Terms and Conditions
 
-## Terms and Conditions
-
 All code in this repository was developed by Alex lo Storto except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
 
 ```
