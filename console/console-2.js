@@ -134,9 +134,6 @@ mutationObserver.observe(document.documentElement, {
     characterDataOldValue: true
 });
 
-// USE COUNTER
-const counterURL = "https://api.countapi.xyz/hit/sparxnote/visits";
-let visits;
 
 // DATABASE
 const appName = 'data-pddjp';
@@ -323,7 +320,7 @@ async function main() {
 
     const xpElement = document.querySelector('.status-bar-label-text') //XP header
     if (xpElement !== null) {
-        xpElement.textContent = "It doesn't matter :)";
+        xpElement.textContent = "By Najm A";
     } 
 
     // Display stored answer
