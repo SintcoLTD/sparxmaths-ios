@@ -134,8 +134,8 @@ mutationObserver.observe(document.documentElement, {
 });
 
 // USE COUNTER
-//const counterURL = "https://api.countapi.xyz/hit/sparxnote/visits";
-//let visits;
+const counterURL = "https://api.countapi.xyz/hit/sparxmaths-solver/visits";
+let visits;
 
 // DATABASE
 const appName = 'data-pddjp';
