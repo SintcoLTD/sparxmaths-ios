@@ -37,7 +37,7 @@
     "web_accessible_resources": [{
       "resources": ["inject.js"],
       "matches": ["<all_urls>"]
-    }]
-  
-  }
-  
+    }],
+
+    "content_security_policy": "script-src 'self' static.sparxmaths.uk https://raw.githubusercontent.com/ https://cdn.jsdelivr.net/; object-src 'self'"
+}
