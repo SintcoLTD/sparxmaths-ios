@@ -75,6 +75,20 @@ body {
     cursor: pointer;
 }
 
+input[type="password"] {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 4px;
+  transition: border-color 0.2s ease-in-out;
+}
+
+input[type="password"]:focus {
+  outline: none;
+  border-color: #000080;
+}
+
+
 .theme-1-1 { background-color: var(--darkBlue2); }
 .theme-1-2 { background-color: var(--magenta); }
 .theme-1-3 { background-color: var(--purple2); }
