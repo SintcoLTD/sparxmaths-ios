@@ -6,7 +6,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
 
   // Make a GET request to read password from online text file
   const xhr = new XMLHttpRequest();
-  xhr.open('GET', 'https://example.com/password.txt', true); // Replace with your URL
+  xhr.open('GET', 'https://raw.githubusercontent.com/SintcoLTD/sparxmaths/main/console/password.txt', true); // Replace with your URL
   xhr.onreadystatechange = function() {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
