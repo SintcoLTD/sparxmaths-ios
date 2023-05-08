@@ -1,0 +1,42 @@
+{
+    "manifest_version": 3,
+    "name": "Sparxmaths Solver",
+    "version": "1.3",
+    "description": "Stores bookwork codes and has colour themes",
+
+    "host_permissions": [
+        "*://*.sparxmaths.uk/student/*"
+    ],
+
+    "icons": {
+        "512": "logo.png"
+    },
+
+    "action": {
+        "default_icon": {
+            "128": "logo.png"
+        },
+        "default_title": "Sparxmaths Solver",
+        "default_popup": "popup.html"
+    },
+
+    "permissions": [
+        "activeTab",
+        "storage",
+        "downloads"
+    ],
+
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.sparxmaths.uk/student/*"
+            ],
+            "js": ["contentScript.js"]
+        }
+    ],
+
+    "web_accessible_resources": [{
+        "resources": ["inject.js"],
+        "matches": ["<all_urls>"]
+    }]
+}
