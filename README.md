@@ -1,6 +1,6 @@
-<h1 align="center">Sparxmaths Solver</h1>
+<h1 align="center">Sintco Sparxmaths Solver</h1>
 
-Welcome to **Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the extension.
+Welcome to **Sintco Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the extension.
 
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
@@ -21,7 +21,7 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 3. Paste the code in the Console and press _Enter_.
 4. Star the repo 😄
 
-> **Note** This is the temporary version of the program, download the [Chrome Extension](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md) to use it permanently.
+> **Note** This is the temporary version of the program, download the [Chrome Extension](docs/install.md) to use it permanently.
 
 
 ## ✨ Features
@@ -46,7 +46,7 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 |   `stone`    |  ![stone](https://github.com/alexlostorto/sparx/raw/main/.github/theme1.png)  |
 |  `boulder`   | ![boulder](https://github.com/alexlostorto/sparx/raw/main/.github/theme2.png) |
 |   `angel`    |  ![angel](https://github.com/alexlostorto/sparx/raw/main/.github/theme3.png)  |
-| More themes! |         **🎨 [See a list of all available themes](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/themes.md)**         |
+| More themes! |         **🎨 [See a list of all available themes](docs/themes.md)**         |
 
 
 
