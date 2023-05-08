@@ -1,12 +1,3 @@
-var s = document.createElement('script');
-s.src = chrome.runtime.getURL('inject.js');
-s.onload = function() {
-    this.remove();
-};
-(document.head || document.documentElement).appendChild(s);
-console.log('Password entered correctly! Continuing script...');
-
-
 // START FILE CHECK FOR EXTENSION ENABLEMENT
 fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/SMA/notifications/1/switch.txt')
   .then(response => response.text())
