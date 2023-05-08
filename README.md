@@ -1,82 +1,80 @@
-<h1 align="center">Sparxmaths Solver</h1>
+<h1 align="center">Sintco Sparxmaths Solver</h1>
 
-Welcome to **Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](T&C.txt) before using the extension.
+Welcome to **Sintco Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the extension.
 
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
-
-```js
-// List of programs
-console.js;
-chrome_extension;
-```
 
 
 ## Table of Contents
 
 
-- [Features](#features)
-- [Autosolve](#autosolve)
-- [Colour Themes](#colour-themes)
-- [Scripts](#scripts)
-  * [Console](#console)
-  * [Chrome Extension](#chrome-extension)
+- [Features](#-features)
+- [Autosolve](#-autosolve)
+- [Install](#install)
 - [Terms and Conditions](#terms-and-conditions)
 
 
-## Features
+## ⚡ Quick setup
+
+1. Visit [copy button](https://copy-button-for-sparx.glitch.me/) to copy install command to clipboard. and click the Copy button.
+2. Log in to Sparx Maths and open the **Developers Console** with _Ctrl + Shift + J_
+3. Paste the code in the Console and press _Enter_.
+4. Star the repo 😄
+
+> **Note** This is the temporary version of the program, download the [Chrome Extension](docs/install.md) to use it permanently.
+
+
+## ✨ Features
 
 - **9** different **colour themes**
 - **Stores answers** (so you don't need to write them down)
 - **Automatically** highlights the **correct** bookwork check answer
+- **Automatically** selects next task when pressing **Enter**
 - Works on **all** computers that allow **Inspect Element**
 - Can be used on **Android** (through Kiwi Browser)
 
-## Autosolve
+## 🎬 Autosolve
 
 <p align="center">
-  <img width="70%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Bookwork Code 6.PNG">
+  <img width="70%" src="https://github.com/alexlostorto/sparx/raw/main/.github/bookwork-code.png">
 </p>
 
+## 🖌 Colour Themes
+
+|    Theme     |                                    Preview                                    |
+| :----------: | :---------------------------------------------------------------------------: |
+|   `stone`    |  ![stone](https://github.com/alexlostorto/sparx/raw/main/.github/theme1.png)  |
+|  `boulder`   | ![boulder](https://github.com/alexlostorto/sparx/raw/main/.github/theme2.png) |
+|   `angel`    |  ![angel](https://github.com/alexlostorto/sparx/raw/main/.github/theme3.png)  |
+| More themes! |         **🎨 [See a list of all available themes](docs/themes.md)**         |
 
 
-## Colour Themes
 
-<p align="center">
-  <img width="100%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Home Page.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 1.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 2.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 3.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 4.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 5.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 6.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 7.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 8.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 9.PNG">
-</p>
+## Install
 
-## Scripts
+Install instructions
 
-#### Console
+<ol>
+  <li>Go to the <b>GitHub</b> page of the <b>Chrome extension</b> you want to install.</li>
+  <li>Click the green <b>"Code"</b> button and select <b>"Download ZIP"</b> to download the extension's source code to your computer.</li>
+  <li><b>Extract</b> the downloaded ZIP file to a convenient location on your computer, such as your desktop or documents folder.</li>
+  <li>Open <b>Google Chrome</b> on your computer.</li>
+  <li>Click the <b>three-dot</b> menu icon in the <b>top-right corner</b> of the Chrome window and select <b>"More tools" > "Extensions"</b> from the <b>drop-down menu.</b></li>
+  <li>In the Extensions tab, toggle on the <b>"Developer mode"</b> switch located in the <b>top-right corner</b> of the window.</li>
+  <li>Click the <b>"Load unpacked"</b> button in the <b>top-left corner</b> of the window.</li>
+  <li>Navigate to the folder where you extracted the extension's source code in step 3, and <b>select</b> it.</li>
+  <li>Click <b>"Open"</b> to install the extension.</li>
+  <li>The extension should now appear in the Extensions tab, and you can use it as you normally would.</li>
+  <li>Go to the <b>Extensions tab</b> in Chrome.</li>
+  <li>Find <b>Sparxmaths Solver</b> and in the Chrome toolbar and click the <b>pin</b> icon next to it.</li>
+  <li>The extension should now appear in the Chrome toolbar.</li>
+  <li>Click on the <b>Sparxmaths Solver</b> Icon and enter the password.</li>
+</ol>
 
-1. This script works in the console.
-
-#### Chrome extension
-
-1. An unpacked Chrome extension which utilises chrome's storage API to hold sparx data.
 
 ## Terms and Conditions
 
-All code in this repository was developed by Alex lo Storto except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
+All code in this repository was developed by [<b>Najm Ajmal</b>](https://github.com/NajmAjmal) & [<b>Alex lo Storto</b>](https://github.com/alexlostorto). Copyright (c) 2023, [<b>SintcoLTD</b>](https://github.com/SintcoLTD). All rights reserved. The code is licensed under the MIT license.
 
 ```
 FOR EDUCATIONAL PURPOSES ONLY.
@@ -93,9 +91,9 @@ ALL COMPLAINTS SHALL BE FORMALLY ADDRESSED AS A GITHUB ISSUE ON THIS
 REPOSITORY.
 
 THIS PROGRAM HAS NO CONNECTION WITH SPARX. CHEATING OF ANY KIND IS NOT
-TOLERATED AND WE DO NOT TAKE ANY LIABILITY FOR THE USE OF THIS PROGRAM BY
+ENDORESED AND WE DO NOT TAKE ANY LIABILITY FOR THE USE OF THIS PROGRAM BY
 ANY USERS. WE DO NOT TAKE ANY LIABILITY FOR ANY DAMAGES INCURRED BY THE USE
 OF THIS SOFWTARE.
 ```
 
-For full terms, see the [T&C](T&C.txt) file. If you have any questions, comments, or concerns about licensing please contact us.
+  Credits: [Alex Lo Storto/magic-notes](https://github.com/alexlostorto/magic-notes)
