@@ -1,5 +1,3 @@
-Sure, here's the updated markdown code:
-
 ## ⚡ Install Instructions for Edge
 
 To install a Microsoft Edge extension from a file, follow these steps:
