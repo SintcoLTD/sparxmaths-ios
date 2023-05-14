@@ -37,16 +37,16 @@ Welcome to **Sintco Sparxmaths Solver**, an extension designed to assist you wit
 ## 🎬 Autosolve
 
 <p align="center">
-  <img width="70%" src="https://github.com/alexlostorto/sparx/raw/main/.github/bookwork-code.png">
+  <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/bookwork-code.png">
 </p>
 
 ## 🖌 Colour Themes
 
 |    Theme     |                                    Preview                                    |
 | :----------: | :---------------------------------------------------------------------------: |
-|   `stone`    |  ![stone](https://github.com/alexlostorto/sparx/raw/main/.github/theme1.png)  |
-|  `boulder`   | ![boulder](https://github.com/alexlostorto/sparx/raw/main/.github/theme2.png) |
-|   `angel`    |  ![angel](https://github.com/alexlostorto/sparx/raw/main/.github/theme3.png)  |
+|   `stone`    |  ![stone](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme1.png)  |
+|  `boulder`   | ![boulder](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme2.png) |
+|   `angel`    |  ![angel](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme3.png)  |
 | More themes! |         **🎨 [See a list of all available themes](docs/themes.md)**         |
 
 
