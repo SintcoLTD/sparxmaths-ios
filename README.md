@@ -20,8 +20,9 @@ Welcome to **Sintco Sparxmaths Solver**, an extension designed to assist you wit
 2. Log in to Sparx Maths and open the **Developers Console** with _Ctrl + Shift + J_
 3. Paste the code in the Console and press _Enter_.
 4. Star the repo 😄
+5. 
 
-> **Note** This is the temporary version of the program, download the [Chrome Extension](docs/install.md) to use it permanently.
+> **Note** This is the temporary version of the program, download the [Chrome Extension](#install) to use it permanently.
 
 
 ## ✨ Features
@@ -52,32 +53,29 @@ Welcome to **Sintco Sparxmaths Solver**, an extension designed to assist you wit
 
 ## Install
 
-Install instructions
+Install instructions for Popular Browsers
 
-<ol>
-  <li>Go to the <b>GitHub</b> page of the <b>Chrome extension</b> you want to install.</li>
-  <li>Click the green <b>"Code"</b> button and select <b>"Download ZIP"</b> to download the extension's source code to your computer.</li>
-  <li><b>Extract</b> the downloaded ZIP file to a convenient location on your computer, such as your desktop or documents folder.</li>
-  <li>Open <b>Google Chrome</b> on your computer.</li>
-  <li>Click the <b>three-dot</b> menu icon in the <b>top-right corner</b> of the Chrome window and select <b>"More tools" > "Extensions"</b> from the <b>drop-down menu.</b></li>
-  <li>In the Extensions tab, toggle on the <b>"Developer mode"</b> switch located in the <b>top-right corner</b> of the window.</li>
-  <li>Click the <b>"Load unpacked"</b> button in the <b>top-left corner</b> of the window.</li>
-  <li>Navigate to the folder where you extracted the extension's source code in step 3, and <b>select</b> it.</li>
-  <li>Click <b>"Open"</b> to install the extension.</li>
-  <li>The extension should now appear in the Extensions tab, and you can use it as you normally would.</li>
-  <li>Go to the <b>Extensions tab</b> in Chrome.</li>
-  <li>Find <b>Sparxmaths Solver</b> and in the Chrome toolbar and click the <b>pin</b> icon next to it.</li>
-  <li>The extension should now appear in the Chrome toolbar.</li>
-  <li>Click on the <b>Sparxmaths Solver</b> Icon and enter the password.</li>
-</ol>
+<ul>
+  <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md">Microsoft Edge</a></li>
+  <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md">Google Chrome</a></li>
+  <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operax.md">OperaGX</a></li>
+</ul>
+
+If you do not use any of the browsers listed above then you can paste this code into your browsers console.
+You can open the **Developers Console** with _Ctrl + Shift + J_ and paste in the code
+
+    s = document.createElement('script');
+    s.src = 'https://cdn.jsdelivr.net/gh/SintcoLTD/CDN@main/chrome-extension/sparxmaths/console/inject.js';
+    document.head.appendChild(s);
+
+This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [Features](#-features)  to the website that allow it to function without the need to install the extension.
 
 
 ## Terms and Conditions
 
 All code in this repository was developed by [<b>Najm Ajmal</b>](https://github.com/NajmAjmal) & [<b>Alex lo Storto</b>](https://github.com/alexlostorto). Copyright (c) 2023, [<b>SintcoLTD</b>](https://github.com/SintcoLTD). All rights reserved. The code is licensed under the MIT license.
 
-```
-FOR EDUCATIONAL PURPOSES ONLY.
+```FOR EDUCATIONAL PURPOSES ONLY.
 
 THIS PROGRAM CONTAINS A COLOUR THEMES FUNCTION AND A DIGITAL NOTEBOOK
 FUNCTION. THE UNETHICAL DISTRIBUTION OF ANSWERS IS NOT PROVIDED BY THIS
