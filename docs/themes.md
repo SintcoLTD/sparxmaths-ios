@@ -1,20 +1,20 @@
 ## Currently supported themes
 
-Colour themes are displayed in the main screen when you log in to Sparx Maths.
+Colour themes are displayed in the main screen when you log in to Sparxmaths.
 
 You can choose a colour theme by clicking it.
 
 |   Theme   |                                   Preview                                   |
 | :-------: | :-------------------------------------------------------------------------: |
-|  `stone`  | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme1.png) |
-| `boulder` | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme2.png) |
-|  `angel`  | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme3.png) |
-| `purple`  | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme4.png) |
-|   `red`   | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme5.png) |
-|  `green`  | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme6.png) |
-|  `rose`   | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme7.png) |
-|  `blue`   | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme8.png) |
-|  `dark`   | ![image](https://github.com/alexlostorto/sparx/raw/main/.github/theme9.png) |
+|  `stone`  | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme1.png) |
+| `boulder` | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme2.png) |
+|  `angel`  | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme3.png) |
+| `purple`  | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme4.png) |
+|   `red`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme5.png) |
+|  `green`  | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme6.png) |
+|  `rose`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme7.png) |
+|  `blue`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme8.png) |
+|  `dark`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/.png) |
 
 ### Can't find the theme you like?
 
