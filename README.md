@@ -93,5 +93,7 @@ ENDORESED AND WE DO NOT TAKE ANY LIABILITY FOR THE USE OF THIS PROGRAM BY
 ANY USERS. WE DO NOT TAKE ANY LIABILITY FOR ANY DAMAGES INCURRED BY THE USE
 OF THIS SOFWTARE.
 ```
+For the full Terms and Conditions, click [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md)
+
 
   Credits: [Alex Lo Storto/magic-notes](https://github.com/alexlostorto/magic-notes)
