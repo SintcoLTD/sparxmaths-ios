@@ -1,36 +1,37 @@
 <h1 align="center">Sintco Sparxmaths Solver</h1>
 
-Welcome to **Sintco Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the extension.
+Welcome to **Sintco Sparxmaths Solver**, a browser extension designed to assist you with your math homework. Before using the extension, please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
 
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
 
 ## Table of Contents
 
-
 - [Features](#-features)
 - [Autosolve](#-autosolve)
-- [Install](#install)
-- [Terms and Conditions](#terms-and-conditions)
+- [Installation](#installation)
+- [Colour Themes](#-colour-themes)
+- [Feedback](#feedback)
+- [Acknowledgements](#acknowledgements)
 
 
-## ⚡ Quick setup
+## ⚡ Quick Setup
 
-1. Visit [copy button](https://copy-button-for-sparx.glitch.me/) to copy install command to clipboard. and click the Copy button.
+1. Visit [copy button](https://copy-button-for-sparx.glitch.me/) to copy install command to clipboard and click the Copy button.
 2. Log in to Sparx Maths and open the **Developers Console** with _Ctrl + Shift + J_
 3. Paste the code in the Console and press _Enter_.
-4. Star the repo 😄
-5. 
+4. Star the repository 😄
 
-> **Note** This is the temporary version of the program, download the [Chrome Extension](#install) to use it permanently.
+
+> **Note**: This is the temporary version of the program. Download the [Chrome Extension](#installation) to use it permanently.
 
 
 ## ✨ Features
 
-- **9** different **colour themes**
+- **9** different **color themes**
 - **Stores answers** (so you don't need to write them down)
 - **Automatically** highlights the **correct** bookwork check answer
-- **Automatically** selects next task when pressing **Enter**
+- **Automatically** selects the next task when pressing **Enter**
 - Works on **all** computers that allow **Inspect Element**
 - Can be used on **Android** (through Kiwi Browser)
 
@@ -40,20 +41,9 @@ Welcome to **Sintco Sparxmaths Solver**, an extension designed to assist you wit
   <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/bookwork-code.png">
 </p>
 
-## 🖌 Colour Themes
+## Installation
 
-|    Theme     |                                    Preview                                    |
-| :----------: | :---------------------------------------------------------------------------: |
-|   `stone`    |  ![stone](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme1.png)  |
-|  `boulder`   | ![boulder](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme2.png) |
-|   `angel`    |  ![angel](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme3.png)  |
-| More themes! |         **🎨 [See a list of all available themes](docs/themes.md)**         |
-
-
-
-## Install
-
-Install instructions for Popular Browsers
+Installation instructions for popular browsers:
 
 <ul>
   <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md">Microsoft Edge</a></li>
@@ -61,39 +51,53 @@ Install instructions for Popular Browsers
   <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operax.md">OperaGX</a></li>
 </ul>
 
-If you do not use any of the browsers listed above then you can paste this code into your browsers console.
-You can open the **Developers Console** with _Ctrl + Shift + J_ and paste in the code
+If you do not use any of the browsers listed above, you can paste this code into your browser's console:
 
-    s = document.createElement('script');
-    s.src = 'https://cdn.jsdelivr.net/gh/SintcoLTD/CDN@main/chrome-extension/sparxmaths/console/inject.js';
-    document.head.appendChild(s);
-
-This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [Features](#-features)  to the website that allow it to function without the need to install the extension.
-
-
-## Terms and Conditions
-
-All code in this repository was developed by [<b>Najm Ajmal</b>](https://github.com/NajmAjmal) & [<b>Alex lo Storto</b>](https://github.com/alexlostorto). Copyright (c) 2023, [<b>SintcoLTD</b>](https://github.com/SintcoLTD). All rights reserved. The code is licensed under the MIT license.
-
-```FOR EDUCATIONAL PURPOSES ONLY.
-
-THIS PROGRAM CONTAINS A COLOUR THEMES FUNCTION AND A DIGITAL NOTEBOOK
-FUNCTION. THE UNETHICAL DISTRIBUTION OF ANSWERS IS NOT PROVIDED BY THIS
-SOFTWARE AND ANY USERS OF THIS SOFWARE SHALL NOT MODIFY IT FOR UNLAWFUL
-OR UNETHICAL USE OF THE SPARX WEBSITE.
-
-THIS IS AN OPEN-SOURCE AND FREE SOFTWARE WHICH DOES NOT INCLUDE PURCHASES
-OF ANY KIND.
-
-ALL COMPLAINTS SHALL BE FORMALLY ADDRESSED AS A GITHUB ISSUE ON THIS
-REPOSITORY.
-
-THIS PROGRAM HAS NO CONNECTION WITH SPARX. CHEATING OF ANY KIND IS NOT
-ENDORESED AND WE DO NOT TAKE ANY LIABILITY FOR THE USE OF THIS PROGRAM BY
-ANY USERS. WE DO NOT TAKE ANY LIABILITY FOR ANY DAMAGES INCURRED BY THE USE
-OF THIS SOFWTARE.
+```javascript
+s = document.createElement('script');
+s.src = 'https://cdn.jsdelivr.net/gh/SintcoLTD/CDN@main/chrome-extension/sparxmaths/console/inject.js';
+document.head.appendChild(s);
 ```
-For the full Terms and Conditions, click [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md)
+
+This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#-features) to the website that allow it to function without the need to install the extension.
+
+## 🖌 Colour Themes
+
+Sintco Sparxmaths Solver offers 9 different colour themes to customize the look of the extension and make it more visually appealing. Below is a preview of some of the available themes:
+
+|    Theme     |                                    Preview                                    |
+| :----------: | :---------------------------------------------------------------------------: |
+|   `stone`    |  ![stone](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme1.png)  |
+|  `boulder`   | ![boulder](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme2.png) |
+|   `angel`    |  ![angel](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme3.png)  |
+
+To see a list of all available themes and how to switch between them, check out the [Themes](docs/themes.md) documentation.
+
+With these color themes, you can personalize your experience using the extension to make it easier on the eyes and more enjoyable to use.
+
+## Feedback
+
+We welcome all kinds of feedback! Please submit an issue if you:
+
+- encounter any bugs
+- have any suggestions for improvements
+- would like to see new features added
+
+You can open a [Github Issue here](https://github.com/SintcoLTD/sparxmaths/issues/new)
 
 
-  Credits: [Alex Lo Storto/magic-notes](https://github.com/alexlostorto/magic-notes)
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Acknowledgements
+
+- Thanks to [Glitch](https://glitch.com/) for hosting the "copy install command" website
+- Thanks to [Shields.io](https://shields.io/) for providing the status badge in this README
+- Thanks to all contributors who have helped improve this project
+
+
+---
+
+Made with ❤️ by [SintcoLTD](https://github.com/SintcoLTD)
