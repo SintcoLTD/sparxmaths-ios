@@ -18,7 +18,7 @@ Welcome to **Sintco Sparxmaths Solver**, a browser extension designed to assist 
 ## ⚡ Quick Setup
 
 1. Visit [copy button](https://copy-button-for-sparx.glitch.me/) to copy install command to clipboard and click the Copy button.
-2. Log in to Sparx Maths and open the **Developers Console** with _Ctrl + Shift + J_
+2. Log in to Sparxmaths and open the **Developers Console** with _Ctrl + Shift + J_
 3. Paste the code in the Console and press _Enter_.
 4. Star the repository 😄
 
@@ -41,17 +41,16 @@ Welcome to **Sintco Sparxmaths Solver**, a browser extension designed to assist 
   <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/bookwork-code.png">
 </p>
 
+
 ## Installation
 
-Installation instructions for popular browsers:
+To install Sparxmaths, you can follow the instructions for your preferred browser below:
 
-<ul>
-  <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md">Microsoft Edge</a></li>
-  <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md">Google Chrome</a></li>
-  <li><a href="https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operax.md">OperaGX</a></li>
-</ul>
+- **Google Chrome**:  [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md)
+- **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)<--- Recommended
+- **OperaGX**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operax.md)
 
-If you do not use any of the browsers listed above, you can paste this code into your browser's console:
+If you use a different browser, you can still use Sparxmaths by pasting the following code into your browser's console:
 
 ```javascript
 s = document.createElement('script');
@@ -59,7 +58,7 @@ s.src = 'https://cdn.jsdelivr.net/gh/SintcoLTD/CDN@main/chrome-extension/sparxma
 document.head.appendChild(s);
 ```
 
-This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#-features) to the website that allow it to function without the need to install the extension.
+This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#features) to the website that allow it to function without the need to install the extension.
 
 ## 🖌 Colour Themes
 
