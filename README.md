@@ -50,7 +50,7 @@ To install Sparxmaths, you can follow the instructions for your preferred browse
 - **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)<--- Recommended
 - **OperaGX**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operax.md)
 
-If you use a different browser, you can still use Sparxmaths by pasting the following code into your browser's console:
+If you use a different browser, you can still use Sintco Sparxmaths Solver by pasting the following code into your browser's console:
 
 ```javascript
 s = document.createElement('script');
