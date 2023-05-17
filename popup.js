@@ -1,6 +1,3 @@
-theme1 = document.querySelector('.theme-1');
-theme2 = document.querySelector('.theme-2');
-theme3 = document.querySelector('.theme-3');
 downloadButton = document.querySelector('#download');
 aboutButton = document.querySelector('#about');
 
@@ -25,7 +22,7 @@ aboutButton.addEventListener('click', function() {
 });
 
 downloadButton.addEventListener('click', function() {
-    chrome.storage.sync.get(['sparxCodes'], function(database) {
+    chrome.storage.sync.get(['sparx-data'], function(database) {
         let newDatabase = [];
         for (let [key, value] of Object.entries(database.sparxCodes)) {
             value = value.join('').replace('\n', '');
