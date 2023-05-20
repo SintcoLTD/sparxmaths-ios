@@ -14,7 +14,7 @@ You can choose a colour theme by clicking it.
 |  `green`  | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme6.png) |
 |  `rose`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme7.png) |
 |  `blue`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme8.png) |
-|  `dark`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/.png) |
+|  `dark`   | ![image](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/themes9.png) |
 
 ### Can't find the theme you like?
 
