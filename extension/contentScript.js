@@ -1,10 +1,10 @@
 // START FILE CHECK FOR EXTENSION ENABLEMENT
-fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.4/switch.txt')
+fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.4.1/switch.txt')
   .then(response => response.text())
   .then(text => {
     if (text.includes('CHROME EXTENSION ENABLE')) {
       // START FILE CHECK FOR NOTIFICATION
-      fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.4/notification.txt')
+      fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.4.1/notification.txt')
         .then(response => response.text())
         .then(text => {
           // If notification.txt has any content, display an alert
