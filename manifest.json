@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Sparxmaths Solver",
+    "name": "Sintco Sparxmaths Solver",
     "version": "1.4",
     "description": "Stores bookwork codes and has colour themes",
 
@@ -14,9 +14,9 @@
 
     "action": {
         "default_icon": {
-            "128": "logo.png"
+            "512": "logo.png"
         },
-        "default_title": "Sparxmaths Solver",
+        "default_title": "Sintco Sparxmaths Solver",
         "default_popup": "popup.html"
     },
 
