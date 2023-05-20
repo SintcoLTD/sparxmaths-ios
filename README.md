@@ -52,7 +52,7 @@ To install Sparxmaths, you can follow the instructions for your preferred browse
 
 
 
-https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md
+
 If you use a different browser, you can still use Sintco Sparxmaths Solver by pasting the following code into your browser's console:
 
 ```javascript
