@@ -46,9 +46,13 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 To install Sparxmaths, you can follow the instructions for your preferred browser below:
 
 - **Google Chrome**:  [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md)
-- **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)<--- Recommended
+- **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)
+- **FireFox**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
 - **OperaGX**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operagx.md)
 
+
+
+https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md
 If you use a different browser, you can still use Sintco Sparxmaths Solver by pasting the following code into your browser's console:
 
 ```javascript
@@ -58,6 +62,8 @@ document.head.appendChild(s);
 ```
 
 This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#features) to the website that allow it to function without the need to install the extension.
+
+**(indev) is referring to "In Development"*
 
 ## 🖌 Colour Themes
 
