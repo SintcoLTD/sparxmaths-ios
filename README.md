@@ -1,8 +1,7 @@
 <h1 align="center">Sintco Sparxmaths Solver</h1>
 
-Welcome to **Sintco Sparxmaths Solver**, a browser extension designed to assist you with your math homework. Before using the extension, please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
+Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your math homework. Before using the extension, please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
 
-`THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
 
 ## Table of Contents
@@ -95,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to [Glitch](https://glitch.com/) for hosting the "copy install command" website
 - Thanks to [Shields.io](https://shields.io/) for providing the status badge in this README
 - Thanks to all contributors who have helped improve this project
-
+`THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
 ---
 
