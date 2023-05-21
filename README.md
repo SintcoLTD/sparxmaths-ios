@@ -1,6 +1,6 @@
 <h1 align="center">Sintco Sparxmaths Solver</h1>
 
-Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
+Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the program.
 
 
 
@@ -16,7 +16,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## ⚡ Quick Setup
 
-1. Visit [Js code Snippet](#installation) to copy install command to clipboard and click the Copy button.
+1. Visit [JS Snippet](#installation) to copy install command to clipboard and click the Copy button.
 2. Log in to Sparxmaths and open the **Developers Console** with _Ctrl + Shift + J_
 3. Paste the code in the Console and press _Enter_.
 4. Star the repository 😄
@@ -53,7 +53,7 @@ To install Sparxmaths, you can follow the instructions for your preferred browse
 
 
 
-If you use a different browser, you can still use Sintco Sparxmaths Solver by pasting the following code into your browser's console:
+If you use a different browser, you can still use Sintco Sparxmaths Solver by pasting the JS Snippet into your browser's console:
 
 ```javascript
 s = document.createElement('script');
@@ -81,18 +81,18 @@ With these color themes, you can personalize your experience using the extension
 
 ## 🙋 FAQ
 
-#### Q. Do I have to copy and paste the code every time?
+#### Q. Do I have to copy and paste the JS Snippet every time?
 
-A. If you want the program to stay permanently instead of manually injecting it, install it [here](#installation).
+A. If you want the program to stay **permanently** instead of manually **injecting it**, install it [here](#installation).
 
 
 ## 🗣 Feedback
 
 We welcome all kinds of feedback! Please submit an issue if you:
 
-- encounter any bugs
-- have any suggestions for improvements
-- would like to see new features added
+- encounter any **bugs**
+- have any **suggestions for improvements**
+- would like to see **new features** added
 
 You can open a [Github Issue here](https://github.com/SintcoLTD/sparxmaths/issues/new)
 
