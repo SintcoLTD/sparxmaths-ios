@@ -16,7 +16,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## ⚡ Quick Setup
 
-1. Visit [copy button](https://copy-button-for-sparx.glitch.me/) to copy install command to clipboard and click the Copy button.
+1. Visit [Js code Snippet](#installation) to copy install command to clipboard and click the Copy button.
 2. Log in to Sparxmaths and open the **Developers Console** with _Ctrl + Shift + J_
 3. Paste the code in the Console and press _Enter_.
 4. Star the repository 😄
@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Thanks to [Glitch](https://glitch.com/) for hosting the "copy install command" website
+- Thanks to [Glitch](https://glitch.com/) for hosting the "[sparxmaths.glitch.me](https://sparxmaths.glitch.me)" website
 - Thanks to [Shields.io](https://shields.io/) for providing the status badge in this README
 - Thanks to all contributors who have helped improve this project
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
