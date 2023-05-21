@@ -1,6 +1,6 @@
 <h1 align="center">Sintco Sparxmaths Solver</h1>
 
-Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your math homework. Before using the extension, please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
+Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
 
 
 
