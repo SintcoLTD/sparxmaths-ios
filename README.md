@@ -41,7 +41,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 </p>
 
 
-## Installation
+## ⬇️ Installation
 
 To install Sparxmaths, you can follow the instructions for your preferred browser below:
 
@@ -79,7 +79,14 @@ To see a list of all available themes and how to switch between them, check out 
 
 With these color themes, you can personalize your experience using the extension to make it easier on the eyes and more enjoyable to use.
 
-## Feedback
+## 🙋 FAQ
+
+#### Q. Do I have to copy and paste the code every time?
+
+A. If you want the program to stay permanently instead of manually injecting it, install it [here](#installation).
+
+
+## 🗣 Feedback
 
 We welcome all kinds of feedback! Please submit an issue if you:
 
@@ -95,7 +102,7 @@ You can open a [Github Issue here](https://github.com/SintcoLTD/sparxmaths/issue
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## Acknowledgements
+## 👏 Acknowledgements
 
 - Thanks to [Glitch](https://glitch.com/) for hosting the "[sparxmaths.glitch.me](https://sparxmaths.glitch.me)" website
 - Thanks to [Shields.io](https://shields.io/) for providing the status badge in this README
