@@ -10,8 +10,8 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 - [Autosolve](#-autosolve)
 - [Installation](#installation)
 - [Colour Themes](#-colour-themes)
-- [Feedback](#feedback)
-- [Acknowledgements](#acknowledgements)
+- [Feedback](#-feedback)
+- [Acknowledgements](#-acknowledgements)
 
 
 ## ⚡ Quick Setup
@@ -41,7 +41,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 </p>
 
 
-## ⬇️ Installation
+## Installation
 
 To install Sparxmaths, you can follow the instructions for your preferred browser below:
 
