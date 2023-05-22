@@ -61,7 +61,7 @@ s.src = 'https://cdn.jsdelivr.net/gh/SintcoLTD/CDN@main/chrome-extension/sparxma
 document.head.appendChild(s);
 ```
 
-This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#features) to the website that allow it to function without the need to install the extension.
+This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#-features) to the website that allow it to function without the need to install the extension.
 
 **(indev) is referring to "In Development"*
 
