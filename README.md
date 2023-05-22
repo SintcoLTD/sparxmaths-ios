@@ -47,9 +47,8 @@ To install Sparxmaths, you can follow the instructions for your preferred browse
 
 - **Google Chrome**:  [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md)
 - **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)
-- **FireFox**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
 - **OperaGX**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operagx.md)
-
+- **FireFox**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
 
 
 
