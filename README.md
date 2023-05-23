@@ -1,4 +1,4 @@
-<h1 align="center">Sintco Sparxmaths Solver</h1>
+<h1 align="center">Sintco Sparxmaths Solver iOS EDITION</h1>
 
 Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the program.
 
@@ -13,16 +13,6 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 - [Feedback](#-feedback)
 - [Acknowledgements](#-acknowledgements)
 
-
-## ⚡ Quick Setup
-
-1. Visit [JS Snippet](#installation) to copy install command to clipboard and click the Copy button.
-2. Log in to Sparxmaths and open the **Developers Console** with _Ctrl + Shift + J_
-3. Paste the code in the Console and press _Enter_.
-4. Star the repository 😄
-
-
-> **Note**: This is the temporary version of the program. Download the [Chrome Extension](#installation) to use it permanently.
 
 
 ## ✨ Features
@@ -43,26 +33,11 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## Installation
 
-To install Sparxmaths, you can follow the instructions for your preferred browser below:
+To install Sparxmaths Solver, you can follow the instructions below
 
-- **Google Chrome**:  [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md)
-- **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)
-- **OperaGX**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operagx.md)
-- **FireFox**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
+[]
 
 
-
-If you use a different browser, you can still use Sintco Sparxmaths Solver by pasting the JS Snippet into your browser's console:
-
-```javascript
-s = document.createElement('script');
-s.src = 'https://cdn.jsdelivr.net/gh/SintcoLTD/CDN@main/chrome-extension/sparxmaths/console/inject.js';
-document.head.appendChild(s);
-```
-
-This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#-features) to the website that allow it to function without the need to install the extension.
-
-**(indev) is referring to "In Development"*
 
 ## 🖌 Colour Themes
 
@@ -78,11 +53,7 @@ To see a list of all available themes and how to switch between them, check out 
 
 With these color themes, you can personalize your experience using the extension to make it easier on the eyes and more enjoyable to use.
 
-## 🙋 FAQ
 
-#### Q. Do I have to copy and paste the JS Snippet every time?
-
-A. If you want the program to stay **permanently** instead of manually **injecting it**, install it [here](#installation).
 
 
 ## 🗣 Feedback
@@ -93,7 +64,7 @@ We welcome all kinds of feedback! Please submit an issue if you:
 - have any **suggestions for improvements**
 - would like to see **new features** added
 
-You can open a [Github Issue here](https://github.com/SintcoLTD/sparxmaths/issues/new)
+You can open a [Github Issue here](https://github.com/SintcoLTD/sparxmaths-ios/issues/new)
 
 
 ## License
