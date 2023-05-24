@@ -35,7 +35,8 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 To install Sparxmaths Solver, you can follow the instructions below
 
-[]
+1. Download Userscripts on your IPhone/IPad
+2. 
 
 
 
