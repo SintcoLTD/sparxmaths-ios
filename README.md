@@ -1,3 +1,4 @@
+# THIS PROJECT IS ARCHIVED. THIS PROJECT HAS BE DEPRECATED AND WILL NOT RECIEVE UPDATES IN THE NEAR FUTURE
 <h1 align="center">Sintco Sparxmaths Solver iOS EDITION</h1>
 
 Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the program.
